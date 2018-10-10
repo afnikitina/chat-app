@@ -1,4 +1,4 @@
-import React, { Component } from 'ract';
+import React, { Component } from 'react';
 import './App.css';
 
 class ChatInput extends Component {
